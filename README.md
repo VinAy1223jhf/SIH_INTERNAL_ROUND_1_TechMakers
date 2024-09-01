@@ -9,7 +9,6 @@ This README provides an overview of the project, including team details, relevan
 **Team Leader:** [PriyanshuG14](https://github.com/Priyanshu14G)
 
 **Team Members:**
-- **MEMBER 1:** 2022UEA6543 - [PriyanshuG14](https://github.com/Priyanshu14G)
 - **MEMBER 2:** 2022UCA1881 - [Rizz778](https://github.com/Rizz778)
 - **MEMBER 3:** 2022UCA1919 - [VinAy1223jhf](https://github.com/VinAy1223jhf)
 - **MEMBER 4:** 2022UCA1918 - [twinkle831](https://github.com/twinkle831)
