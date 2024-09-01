@@ -43,16 +43,6 @@ Techmakers addresses these challenges by integrating state-of-the-art machine le
 - *Dynamic Forms and Input Handling*: Easily input health data and receive immediate feedback on potential health risks.
 - *Real-Time Data Analysis*: Access to the most recent health data for accurate and timely predictions.
 
-## Architecture
-
-![Architecture](https://via.placeholder.com/800x400) (Placeholder for architecture diagram)
-
-The architecture of Techmakers is designed to ensure scalability, security, and ease of use:
-
-1. *Frontend*: Built with React.js and Tailwind CSS, providing a responsive and user-friendly interface.
-2. *Backend*: Powered by Node.js and Express.js for robust API development, with MongoDB handling data storage.
-3. *Machine Learning Models*: Integrated using Python and frameworks like TensorFlow and Keras, hosted on the backend for real-time inference.
-4. *Chatbot Integration*: Developed using JavaScript and integrated into the frontend to interact with users and provide insights based on machine learning outputs.
 
 ## Technologies Used
 
