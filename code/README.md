@@ -1,4 +1,4 @@
-# Techmakers: Healthcare Assistant Platform
+# MedCortica : Predict, Prevent, Prosper
 
 *Problem Statement ID: 1682*  
 *Smart India Hackathon 2024*
@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Techmakers is an innovative healthcare assistant platform designed to leverage advanced machine learning models and a conversational chatbot to provide accurate disease predictions and personalized health insights. Developed for the Smart India Hackathon 2024, our platform aims to bridge the gap between patients and healthcare providers by offering accessible, reliable, and proactive health monitoring.
+MedCortico is an innovative healthcare assistant platform designed to leverage advanced machine learning models and a conversational chatbot to provide accurate disease predictions and personalized health insights. Developed for the Smart India Hackathon 2024, our platform aims to bridge the gap between patients and healthcare providers by offering accessible, reliable, and proactive health monitoring.
 
 ## Problem Statement
 
@@ -105,8 +105,14 @@ To set up the project locally, follow these steps:
 
 ## Contributors
 
-- *Priyanshu Gupta* - [GitHub](https://github.com/Priyanshu14G)
-- *[Your Team Members]* - [GitHub Links]
+**Team Leader:** [PriyanshuG14](https://github.com/Priyanshu14G)
+
+**Team Members:**
+- **MEMBER 1:** 2022UCA1881 - [Rizz778](https://github.com/Rizz778)
+- **MEMBER 2:** 2022UCA1919 - [VinAy1223jhf](https://github.com/VinAy1223jhf)
+- **MEMBER 3:** 2022UCA1918 - [twinkle831](https://github.com/twinkle831)
+- **MEMBER 4:** 2022UCA1917 - [VANSHKAKKAR04](https://github.com/VANSHKAKKAR04)
+- **MEMBER 5:** 2022UCM2375 - [subhasmita223](https://github.com/subhasmita223)
 
 We believe in collaboration and innovation. If you're interested in contributing, please reach out!
 
