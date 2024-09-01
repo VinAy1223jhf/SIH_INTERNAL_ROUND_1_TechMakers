@@ -1,4 +1,4 @@
-# MedCortica : Predict, Prevent, Prosper
+# MedCortico : Predict, Prevent, Prosper
 
 *Problem Statement ID: 1682*  
 *Smart India Hackathon 2024*
