@@ -9,7 +9,6 @@
 - [Problem Statement](#problem-statement)
 - [Our Solution](#our-solution)
 - [Features](#features)
-- [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
 - [Machine Learning Models](#machine-learning-models)
 - [Getting Started](#getting-started)
